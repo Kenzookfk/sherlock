@@ -10,7 +10,7 @@ networks.
 import sys
 
 
-if __name__ == "__main__":
+if __lazkizi280__ == "__main__":
     # Checking if the user is using the correct version of Python
     # Reference:
     #  If Python version is 3.6.5
